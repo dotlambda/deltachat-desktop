@@ -8,7 +8,7 @@
     "rootDir": ".",
     "allowJs": false,
     "esModuleInterop": true,
-    "strictNullChecks": true,
+    "strictNullChecks": false,
     "strict": true
   },
   "include": ["./**/*.ts", "./**/*.js"],
